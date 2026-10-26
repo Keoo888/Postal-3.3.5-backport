@@ -64,29 +64,25 @@ This repository is a **backport of Postal v4.3.0 from WotLK Classic to WoW
 
 ### Modules
 
-| Module | Description |
-| --- | --- |
-| BlackBook | Contact list, Alts tracking, autocomplete |
-| CarbonCopy | Copy mail contents |
-| DoNotWant | Expiry/return icons on inbox items |
-| Express | Keyboard shortcuts (Shift/Ctrl/Alt-click) |
-| Forward | Forward mail to another character |
-| OpenAll | Bulk-open mail by type with filters |
-| QuickAttach | Quick-attach trade items |
-| Rake | Gold earned summary |
-| Select | Checkboxes + bulk open/return |
-| TradeBlock | Block trades at mailbox |
-| Wire | Auto-fill subject with coin amount |
+- **BlackBook** — contact list, alt tracking and autocomplete.
+- **CarbonCopy** — copy mail contents.
+- **DoNotWant** — expiry and return icons on inbox items.
+- **Express** — keyboard shortcuts with Shift, Ctrl and Alt.
+- **Forward** — forward mail to another character.
+- **OpenAll** — bulk-open mail by type with filters.
+- **QuickAttach** — quick-attach trade items.
+- **Rake** — gold earned summary.
+- **Select** — checkboxes and bulk open/return.
+- **TradeBlock** — block trades at the mailbox.
+- **Wire** — auto-fill the subject with a coin amount.
 
 ### Usage
 
-| Input | Action |
-| --- | --- |
-| **Right-click** Postal icon (top-right of mailbox) | Open settings menu |
-| **Shift-click** inbox item | Take item/money |
-| **Ctrl-click** inbox item | Return mail |
-| **Alt-click** inventory item | Attach to outgoing mail |
-| **Shift-click** OpenAll button | Open all mail (ignore filters) |
+- **Right-click** the Postal icon at the top-right of the mailbox — open the settings menu.
+- **Shift-click** an inbox item — take the item or money.
+- **Ctrl-click** an inbox item — return the mail.
+- **Alt-click** an inventory item — attach it to the outgoing mail.
+- **Shift-click** the OpenAll button — open all mail and ignore filters.
 
 ### Changelog (backport)
 
@@ -113,7 +109,7 @@ This repository is a **backport of Postal v4.3.0 from WotLK Classic to WoW
 
 ### License
 
-Released under the terms of the [LICENSE](LICENSE.txt) file.
+Released under the terms of the original Postal license (MIT). See [LICENSE.txt](LICENSE.txt).
 
 ### Credits
 
@@ -184,29 +180,25 @@ Released under the terms of the [LICENSE](LICENSE.txt) file.
 
 ### Модули
 
-| Модуль | Описание |
-| --- | --- |
-| BlackBook | Список контактов, альты, автодополнение |
-| CarbonCopy | Копирование содержимого письма |
-| DoNotWant | Иконки срока давности писем |
-| Express | Горячие клавиши (Shift/Ctrl/Alt+клик) |
-| Forward | Пересылка письма другому персонажу |
-| OpenAll | Массовое открытие писем с фильтрами |
-| QuickAttach | Быстрое прикрепление предметов |
-| Rake | Сводка заработанного золота |
-| Select | Чекбоксы + массовое открытие/возврат |
-| TradeBlock | Блокировка торговли у почты |
-| Wire | Авто-заполнение темы суммой денег |
+- **BlackBook** — список контактов, альты и автодополнение.
+- **CarbonCopy** — копирование содержимого письма.
+- **DoNotWant** — иконки срока давности писем.
+- **Express** — горячие клавиши с Shift, Ctrl и Alt.
+- **Forward** — пересылка письма другому персонажу.
+- **OpenAll** — массовое открытие писем с фильтрами.
+- **QuickAttach** — быстрое прикрепление предметов.
+- **Rake** — сводка заработанного золота.
+- **Select** — чекбоксы и массовое открытие/возврат.
+- **TradeBlock** — блокировка торговли у почты.
+- **Wire** — авто-заполнение темы суммой денег.
 
 ### Использование
 
-| Действие | Результат |
-| --- | --- |
-| **Правый клик** по иконке Postal (справа сверху у почты) | Меню настроек |
-| **Shift+клик** по письму | Взять предмет/деньги |
-| **Ctrl+клик** по письму | Вернуть письмо |
-| **Alt+клик** по предмету в сумке | Прикрепить к письму |
-| **Shift+клик** по кнопке OpenAll | Открыть все письма (без фильтров) |
+- **Правый клик** по иконке Postal справа сверху у почты — меню настроек.
+- **Shift+клик** по письму — взять предмет или деньги.
+- **Ctrl+клик** по письму — вернуть письмо.
+- **Alt+клик** по предмету в сумке — прикрепить к письму.
+- **Shift+клик** по кнопке OpenAll — открыть все письма без фильтров.
 
 ### Список изменений (бэкпорт)
 
@@ -233,7 +225,7 @@ Released under the terms of the [LICENSE](LICENSE.txt) file.
 
 ### Лицензия
 
-Распространяется на условиях файла [LICENSE](LICENSE.txt).
+Распространяется на условиях оригинальной лицензии Postal (MIT). Подробности — в [LICENSE.txt](LICENSE.txt).
 
 ### Благодарности
 
